@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+  "short_name": "Monster High Checklist",
+  "name": "Monster High Collection Checklist",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
