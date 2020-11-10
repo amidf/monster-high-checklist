@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/amidf/monster-high-checklist/static/css/main.fea47a9a.chunk.css",
+    "main.js": "/amidf/monster-high-checklist/static/js/main.5494cf0e.chunk.js",
+    "main.js.map": "/amidf/monster-high-checklist/static/js/main.5494cf0e.chunk.js.map",
+    "runtime-main.js": "/amidf/monster-high-checklist/static/js/runtime-main.25d25410.js",
+    "runtime-main.js.map": "/amidf/monster-high-checklist/static/js/runtime-main.25d25410.js.map",
+    "static/js/2.b5d9cac7.chunk.js": "/amidf/monster-high-checklist/static/js/2.b5d9cac7.chunk.js",
+    "static/js/2.b5d9cac7.chunk.js.map": "/amidf/monster-high-checklist/static/js/2.b5d9cac7.chunk.js.map",
+    "static/js/3.ccb25132.chunk.js": "/amidf/monster-high-checklist/static/js/3.ccb25132.chunk.js",
+    "static/js/3.ccb25132.chunk.js.map": "/amidf/monster-high-checklist/static/js/3.ccb25132.chunk.js.map",
+    "index.html": "/amidf/monster-high-checklist/index.html",
+    "static/css/main.fea47a9a.chunk.css.map": "/amidf/monster-high-checklist/static/css/main.fea47a9a.chunk.css.map",
+    "static/js/2.b5d9cac7.chunk.js.LICENSE.txt": "/amidf/monster-high-checklist/static/js/2.b5d9cac7.chunk.js.LICENSE.txt",
+    "static/media/abbey.3ee2ab92.jpg": "/amidf/monster-high-checklist/static/media/abbey.3ee2ab92.jpg",
+    "static/media/bg.7659e181.png": "/amidf/monster-high-checklist/static/media/bg.7659e181.png",
+    "static/media/check-icon.951f6095.jpg": "/amidf/monster-high-checklist/static/media/check-icon.951f6095.jpg",
+    "static/media/clawdeen.649de306.jpg": "/amidf/monster-high-checklist/static/media/clawdeen.649de306.jpg",
+    "static/media/cleo.bc7b6852.jpg": "/amidf/monster-high-checklist/static/media/cleo.bc7b6852.jpg",
+    "static/media/draculaura.b6381be1.jpg": "/amidf/monster-high-checklist/static/media/draculaura.b6381be1.jpg",
+    "static/media/franky.672a50ed.jpg": "/amidf/monster-high-checklist/static/media/franky.672a50ed.jpg",
+    "static/media/ghoulia.49b2b915.jpg": "/amidf/monster-high-checklist/static/media/ghoulia.49b2b915.jpg",
+    "static/media/guliopa.0ea10776.jpg": "/amidf/monster-high-checklist/static/media/guliopa.0ea10776.jpg",
+    "static/media/honey.1894a03a.jpg": "/amidf/monster-high-checklist/static/media/honey.1894a03a.jpg",
+    "static/media/lagoona.9fbcda64.jpg": "/amidf/monster-high-checklist/static/media/lagoona.9fbcda64.jpg",
+    "static/media/logo.934805a1.jpg": "/amidf/monster-high-checklist/static/media/logo.934805a1.jpg",
+    "static/media/mewloadia-pursefona.8bcccf42.jpg": "/amidf/monster-high-checklist/static/media/mewloadia-pursefona.8bcccf42.jpg",
+    "static/media/stylesheet.css": "/amidf/monster-high-checklist/static/media/monster-high-font-webfont.9e50f151.woff",
+    "static/media/nefera.b6b34096.jpg": "/amidf/monster-high-checklist/static/media/nefera.b6b34096.jpg",
+    "static/media/rochelle.1f3c74cb.jpg": "/amidf/monster-high-checklist/static/media/rochelle.1f3c74cb.jpg",
+    "static/media/spectra.26753d6b.jpg": "/amidf/monster-high-checklist/static/media/spectra.26753d6b.jpg",
+    "static/media/toralei.4092055d.jpg": "/amidf/monster-high-checklist/static/media/toralei.4092055d.jpg",
+    "static/media/venus.f46140e0.jpg": "/amidf/monster-high-checklist/static/media/venus.f46140e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25d25410.js",
+    "static/js/2.b5d9cac7.chunk.js",
+    "static/css/main.fea47a9a.chunk.css",
+    "static/js/main.5494cf0e.chunk.js"
+  ]
+}
