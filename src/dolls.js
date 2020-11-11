@@ -8,8 +8,11 @@ import guliopaIconSrc from "./images/guliopa.jpg";
 import honeyIconSrc from "./images/honey.jpg";
 import lagoonaIconSrc from "./images/lagoona.jpg";
 import mewloadingAndPursefonaIconSrc from "./images/mewloadia-pursefona.jpg";
+import mewloadingAndPursefonaZombieShakeIconSrc from "./images/pursefona-mewloadia-zombie-shake.jpg";
+import threeCatsIconSrc from "./images/three-cats.jpg";
 import neferaIconSrc from "./images/nefera.jpg";
 import rochelleIconSrc from "./images/rochelle.jpg";
+import rebekkaSteamIconSrc from "./images/rebekka-steam.jpg";
 import spectraIconSrc from "./images/spectra.jpg";
 import toraleiIconSrc from "./images/toralei.jpg";
 import venusIconSrc from "./images/venus.jpg";
@@ -80,9 +83,23 @@ const dolls = [
   },
   {
     id: "mewloadia-pursefona",
-    name: "Мурсефона и Мяулодия",
+    name: "Пурсефона и Мяулодия",
     issueDate: null,
     icon: mewloadingAndPursefonaIconSrc,
+    isCollected: false,
+  },
+  {
+    id: "mewloadia-pursefona-zombie-shake",
+    name: "Пурсефона и Мяулодия. Зомби Шейк",
+    issueDate: null,
+    icon: mewloadingAndPursefonaZombieShakeIconSrc,
+    isCollected: false,
+  },
+  {
+    id: "three-cats",
+    name: "Три кошки",
+    issueDate: null,
+    icon: threeCatsIconSrc,
     isCollected: false,
   },
   {
@@ -100,6 +117,13 @@ const dolls = [
     isCollected: false,
   },
   {
+    id: "rebekka-steam",
+    name: "Ребекка Стим",
+    issueDate: null,
+    icon: rebekkaSteamIconSrc,
+    isCollected: false,
+  },
+  {
     id: "spectra",
     name: "Спектра Вондергейст",
     issueDate: null,
@@ -108,7 +132,7 @@ const dolls = [
   },
   {
     id: "toralei",
-    name: "Торалей",
+    name: "Торалей Страйп",
     issueDate: null,
     icon: toraleiIconSrc,
     isCollected: false,

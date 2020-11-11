@@ -22,6 +22,16 @@ export const Container = styled.div`
     text-align: center;
     font-size: 28px;
   }
+
+  @media (max-width: 767px) {
+    .icon-container {
+      height: auto;
+    }
+
+    width: 100%;
+    margin: 0;
+    margin-bottom: 64px;
+  }
 `;
 
 export const Checkbox = styled.div`

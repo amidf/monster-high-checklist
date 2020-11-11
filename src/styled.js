@@ -13,7 +13,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    padding: 16px;
+    padding: 0 16px;
     margin: 0;
 
     font-family: 'Monster High', sans-serif;
