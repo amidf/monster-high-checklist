@@ -16,6 +16,8 @@ import rebekkaSteamIconSrc from "./images/rebekka-steam.jpg";
 import spectraIconSrc from "./images/spectra.jpg";
 import toraleiIconSrc from "./images/toralei.jpg";
 import venusIconSrc from "./images/venus.jpg";
+import twylaIconSrc from "./images/twyla.jpg";
+import bwFrankyIconSrc from "./images/bw-franky.jpg";
 
 const dolls = [
   {
@@ -143,6 +145,20 @@ const dolls = [
     issueDate: null,
     icon: venusIconSrc,
     isCollected: true,
+  },
+  {
+    id: "twyla",
+    name: "Твила",
+    issueDate: null,
+    icon: twylaIconSrc,
+    isCollected: false,
+  },
+  {
+    id: "bw-franky",
+    name: "Френки Штейн (Черно-Белая)",
+    issueDate: null,
+    icon: bwFrankyIconSrc,
+    isCollected: false,
   },
 ];
 

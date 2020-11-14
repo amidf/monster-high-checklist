@@ -9,13 +9,11 @@ const Info = ({ dolls }) => {
 
   React.useEffect(() => {
     const handler = () => {
-      console.log(window.pageYOffset, containerEl.current.offsetTop);
-
-      if (window.pageYOffset >= containerEl.current.offsetTop) {
-        setSticky(true);
-      } else {
-        setSticky(false);
-      }
+      // if (window.pageYOffset >= containerEl.current.offsetTop) {
+      //   setSticky(true);
+      // } else {
+      //   setSticky(false);
+      // }
     };
 
     handler();
