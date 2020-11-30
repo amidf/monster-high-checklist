@@ -74,7 +74,7 @@ const dolls = [
     name: "Хани Свомп",
     issueDate: null,
     icon: honeyIconSrc,
-    isCollected: false,
+    isCollected: true,
   },
   {
     id: "lagoona",
@@ -116,7 +116,7 @@ const dolls = [
     name: "Рошель Гойл",
     issueDate: null,
     icon: rochelleIconSrc,
-    isCollected: false,
+    isCollected: true,
   },
   {
     id: "rebekka-steam",
@@ -151,7 +151,7 @@ const dolls = [
     name: "Твила",
     issueDate: null,
     icon: twylaIconSrc,
-    isCollected: false,
+    isCollected: true,
   },
   {
     id: "bw-franky",
