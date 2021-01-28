@@ -102,7 +102,7 @@ const dolls = [
     name: "Три кошки",
     issueDate: null,
     icon: threeCatsIconSrc,
-    isCollected: false,
+    isCollected: true,
   },
   {
     id: "nefera",
@@ -120,7 +120,7 @@ const dolls = [
   },
   {
     id: "rebekka-steam",
-    name: "Ребекка Стим",
+    name: "Робекка Стим",
     issueDate: null,
     icon: rebekkaSteamIconSrc,
     isCollected: false,
