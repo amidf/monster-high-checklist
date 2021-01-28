@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/monster-high-checklist/static/css/main.8166003c.chunk.css",
-    "main.js": "/monster-high-checklist/static/js/main.1213db7d.chunk.js",
-    "main.js.map": "/monster-high-checklist/static/js/main.1213db7d.chunk.js.map",
+    "main.css": "/monster-high-checklist/static/css/main.e8c62d59.chunk.css",
+    "main.js": "/monster-high-checklist/static/js/main.1139c415.chunk.js",
+    "main.js.map": "/monster-high-checklist/static/js/main.1139c415.chunk.js.map",
     "runtime-main.js": "/monster-high-checklist/static/js/runtime-main.71e2fa86.js",
     "runtime-main.js.map": "/monster-high-checklist/static/js/runtime-main.71e2fa86.js.map",
     "static/js/2.b21d860a.chunk.js": "/monster-high-checklist/static/js/2.b21d860a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d696b90b.chunk.js": "/monster-high-checklist/static/js/3.d696b90b.chunk.js",
     "static/js/3.d696b90b.chunk.js.map": "/monster-high-checklist/static/js/3.d696b90b.chunk.js.map",
     "index.html": "/monster-high-checklist/index.html",
-    "static/css/main.8166003c.chunk.css.map": "/monster-high-checklist/static/css/main.8166003c.chunk.css.map",
+    "static/css/main.e8c62d59.chunk.css.map": "/monster-high-checklist/static/css/main.e8c62d59.chunk.css.map",
     "static/js/2.b21d860a.chunk.js.LICENSE.txt": "/monster-high-checklist/static/js/2.b21d860a.chunk.js.LICENSE.txt",
     "static/media/abbey.3ee2ab92.jpg": "/monster-high-checklist/static/media/abbey.3ee2ab92.jpg",
     "static/media/bg.7659e181.png": "/monster-high-checklist/static/media/bg.7659e181.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.71e2fa86.js",
     "static/js/2.b21d860a.chunk.js",
-    "static/css/main.8166003c.chunk.css",
-    "static/js/main.1213db7d.chunk.js"
+    "static/css/main.e8c62d59.chunk.css",
+    "static/js/main.1139c415.chunk.js"
   ]
 }
